@@ -67,6 +67,11 @@ body {
   font-style: italic;
 }
 
+.stat2 {
+  font-size: 12px;
+  margin-top: 10px;
+}
+
 .block {
   background-color: rgba(249,204,202,.5);
   padding: 20px;
@@ -84,6 +89,7 @@ body {
 .graphs {
   display: flex;
   justify-content: space-evenly;
+  margin-bottom: -15px;
 }
 
 .graph-2 {

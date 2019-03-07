@@ -35,6 +35,7 @@ class App extends Component {
 
               </div>
               <span class="stat">in movie tickets<br/>per year</span>
+              <span class="stat2">(in the U.S. and Canada alone)</span>
             </div>
 
           </div>
